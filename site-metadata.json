@@ -1,11 +1,11 @@
 {
-  "title": "Stackbit Fjord Theme",
+  "title": "ChidimmaJuliet",
   "palette": "yellow",
   "header": {
-    "title": "Fjord",
+    "title": "Chidimma Juliet",
     "tagline": "Minimal and clean blog theme",
-    "logo_img": "",
-    "bg_img": "/images/10.jpg",
+    "logo_img": "/images/logo.png",
+    "bg_img": "/images/1.jpg",
     "has_nav": true,
     "has_social": true
   },
