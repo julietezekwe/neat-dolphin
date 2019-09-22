@@ -2,6 +2,7 @@
 title: The Act of Technical Writing
 date: 2019-10-27T23:00:00.000Z
 thumb_img_path: /images/apple-class-conference-7102-1-.jpg
+content_img_path: /images/apple-class-conference-7102-1-.jpg
 excerpt: >-
   Technical writing is a type of writing where the author is writing about a
   particular subject that requires direction, instruction, or explanation. This
@@ -11,7 +12,7 @@ excerpt: >-
 hide_header: true
 template: post
 ---
-****
+![](/images/apple-class-conference-7102-1-.jpg)
 
 > _Technical writing is a type of writing where the author is writing about a particular subject that requires direction, instruction, or explanation. This style of writing has a very different purpose and different characteristics than other writing styles such as creative writing, academic writing or business writing._
 
