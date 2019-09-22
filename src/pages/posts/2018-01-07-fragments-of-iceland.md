@@ -1,6 +1,6 @@
 ---
 title: The Art of Technical Writing
-date: 2019-10-27T23:00:00.000Z
+date: 2019-09-22T23:00:00.000Z
 thumb_img_path: /images/apple-class-conference-7102-1-.jpg
 content_img_path: /images/apple-class-conference-7102-1-.jpg
 excerpt: >-
