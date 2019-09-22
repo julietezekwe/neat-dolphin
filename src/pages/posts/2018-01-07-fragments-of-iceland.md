@@ -26,12 +26,15 @@ Take this from someone that disliked writing that writing, especially profession
 
 Different reasons for different folks, right? But we are going to focus on a few benefits of writing professionally. 
 
-To re-learn: Writing things down appear to help us remember the important stuff, and the better our notes are the more likely we are to remember. Just taking note helps make what we have learned stick, having to write about it is even better. While writing, one tends to revisit the topic learned, do even broader research on the topic, while trying to understand better the underlying principles in order to be able to explain them in their own terms. This process obliviously helps one memorize the thoughts and even better, one understands the necessary techniques or approaches to the case study. Its been shown that one hardly go wrong with the writing.
+**To re-learn**: Writing things down appear to help us remember the important stuff, and the better our notes are the more likely we are to remember. Just taking note helps make what we have learned stick, having to write about it is even better. While writing, one tends to revisit the topic learned, do even broader research on the topic, while trying to understand better the underlying principles in order to be able to explain them in their own terms. This process obliviously helps one memorize the thoughts and even better, one understands the necessary techniques or approaches to the case study. Its been shown that one hardly go wrong with the writing.
 
-* To Share
-* To attract
-* To affirm
-* To inspire
+**To Share**
+
+**To attract**
+
+**To affirm**
+
+**To inspire**
 
 ## What if I dislike writing?
 
@@ -39,11 +42,13 @@ Like I mentioned in the introductory part of this article, a couple of people or
 
 ## **How to cultivate a habit of writing.**
 
-* Decide
-* Begin
-* Learn
-* Grow
-* Repeat
+**Decide**
+
+**Begin**
+
+**Learn**
+
+**Grow**
 
 ## **When should I write?**
 
