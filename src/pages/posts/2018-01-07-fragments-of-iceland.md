@@ -46,9 +46,9 @@ Like I mentioned in the introductory part of this article, a couple of people or
 
 **Begin:** After deciding on why and possibly when you want to begin writing, identify a few topics that fascinate you, that obsess you. Write them down; they don’t have to be earth-shattering. Then keep coming back to them, over and over again. You might not be very good at it while starting, but it will get better as you **grow**. Install grammar check apps and run your writings by them before publishing.
 
-**Learn:** Learning is a life long process, so we must have to learn on this too. Studying is one of the obvious ways to learn, so, study known writers patterns, follow a particular writers method if you have or invent your own. The most important part of this point is that you keep getting better, each new article.
+**Learn:** Learning is a life long process, so we must have to learn on this too. Studying is one of the obvious ways to learn, so, study known writers patterns, follow a particular writer's method if you have to or invent yours. The most important note of this point is that you keep getting better, each new article.
 
-**Grow:** When we learn, growth becomes inevitable, so we grow. Learning and growing are tied together and I believe in the quote that says "when we stop learning, we stop living", and I add, what is life when we don't grow? Growing is boundless, as we grow both in skills, strength, capacity, state of the mind and many others.
+**Grow:** When we learn, growth is inevitable; so we grow. Learning and growing are tied together and I believe in the quote that says "when we stop learning, we stop living", and I add, "what is life when we don't grow?" Growing is boundless, as we grow both in skills, strength, capacity, state of the mind and many others.
 
 ## **When should I write?**
 
