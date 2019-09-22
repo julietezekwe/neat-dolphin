@@ -40,7 +40,7 @@ Different reasons for different folks, right? But we are going to focus on a few
 
 Like I mentioned in the introductory part of this article, a couple of people or more might feel like they do not like writing or they do not know how to write. I must admit that to some, writing comes naturally, while others would have to make a conscious effort to write and I stand to be corrected. Having said that, you might agree with me that not everything we need or want come to us naturally, some we have to go after. I will share some of my thoughts and findings on how to start writing especially if you found yourself saying "I dislike writing".
 
-## **How to cultivate a habit of writing.**
+## **How to cultivate a writing habit.**
 
 **Decide:** Deciding is an obvious starting point. Make a decision and solidify it with why you need to write. Having a fascinating reason, especially one that is tied to your flares and career growth, will wake you up even when there are no motivations to write. I write them down in a note on my desktop; that way I get to see them often; you can try that.
 
