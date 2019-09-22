@@ -1,21 +1,23 @@
 ---
 title: The Act of Technical Writing
 date: 2019-10-27T23:00:00.000Z
-thumb_img_path: images/9.jpg
-content_img_path: images/9.jpg
+thumb_img_path: /images/apple-class-conference-7102-1-.jpg
+content_img_path: ''
 excerpt: >-
   Technical writing is a type of writing where the author is writing about a
   particular subject that requires direction, instruction, or explanation. This
   style of writing has a very different purpose and different characteristics
   than other writing styles such as creative writing, academic writing or
   business writing.
-hide_header: false
+hide_header: true
 menus:
   main:
     weight: ''
 template: post
 ---
 ![](/images/apple-class-conference-7102-1-.jpg)
+
+> _Technical writing is a type of writing where the author is writing about a particular subject that requires direction, instruction, or explanation. This style of writing has a very different purpose and different characteristics than other writing styles such as creative writing, academic writing or business writing._
 
 As a science student writing was one of my greatest challenges;  I know some people find themselves under this category. I, at first would convince myself that writing is not meant for everyone, especially those that are science and mathematically inclined but that changed with time as reality began to set in.
 
