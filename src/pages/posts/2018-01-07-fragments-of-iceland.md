@@ -37,7 +37,7 @@ To re-learn: Writing things down appear to help us remember the important stuff,
 
 Like I mentioned in the introductory part of this article, a couple of people or more might feel like they do not like writing or they do not know how to write. I must admit that to some, writing comes naturally, while others would have to make a conscious effort to write and I stand to be corrected. Having said this, you must agree with me that not everything we need to come to us naturally, some we have to go after. I will share some of my beliefs on how to start writing especially if you found yourself saying "I dislike writing".
 
-**How to cultivate a habit of writing**
+## **How to cultivate a habit of writing.**
 
 * Decide
 * Begin
@@ -45,18 +45,18 @@ Like I mentioned in the introductory part of this article, a couple of people or
 * Grow
 * Repeat
 
-**When should I write?**
+## **When should I write?**
 
 The response to this might differ for different kinds of a profession and the list can be infinite; so I will be sharing a few, I believe, cut across many professions for a start and they include;
 
-* _When I want to learn something new._
-* _when I have learned something new._
-* _When I have an opinion about something._
-* _When I want to learn more about anything._
-* _When I want to make inquiries._
-* _When I disagree._
-* _When I want to buttress._
+* When I want to learn something new.
+* when I have learned something new.
+* When I have an opinion about something.
+* When I want to learn more about anything.
+* When I want to make inquiries.
+* When I disagree.
+* When I want to buttress.
 
-Conclusion
+## Conclusion
 
 It can see that not only does writing help us to share information we have with others, it also helps us to know more, help what we have learned stick, get what others think and also encourage others to learn. There is a saying that no one is an island of knowledge, so one cannot say they know it all. Not sharing one's idea can kill the idea or at least prevents the idea from reaching its maximum potential. I will end by saying this "You will never know that you do not know about something if you do not know of its existence".
