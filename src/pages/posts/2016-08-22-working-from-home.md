@@ -10,7 +10,7 @@ excerpt: >-
 hide_header: false
 menus:
   main:
-    weight: 1
+    weight: 2
 template: post
 ---
 ![](/images/apple-class-conference-7102-1-.jpg)
