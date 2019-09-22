@@ -38,7 +38,7 @@ Different reasons for different folks, right? But we are going to focus on a few
 
 ## What if I dislike writing?
 
-Like I mentioned in the introductory part of this article, a couple of people or more might feel like they do not like writing or they do not know how to write. I must admit that to some, writing comes naturally, while others would have to make a conscious effort to write and I stand to be corrected. Having said that, you might agree with me that not everything we need to come to us naturally, some we have to go after. I will share some of my beliefs on how to start writing especially if you found yourself saying "I dislike writing".
+Like I mentioned in the introductory part of this article, a couple of people or more might feel like they do not like writing or they do not know how to write. I must admit that to some, writing comes naturally, while others would have to make a conscious effort to write and I stand to be corrected. Having said that, you might agree with me that not everything we need or want come to us naturally, some we have to go after. I will share some of my beliefs on how to start writing especially if you found yourself saying "I dislike writing".
 
 ## **How to cultivate a habit of writing.**
 
