@@ -6,7 +6,7 @@ menus:
   main:
     identifier: ''
     title: ''
-    weight: ''
+    weight: 2
 template: page
 ---
 I am a highly focused software developer that excels in every stage of the life cycle of software development, including design implementation, coding, debugging, testing, and maintenance. I hold a Bachelor's Degree in Computer Engineering from Nnamdi Azikiwe University, Awka. With over 2 years of experience in software development. 
