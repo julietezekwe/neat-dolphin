@@ -9,7 +9,7 @@ excerpt: >-
   style of writing has a very different purpose and different characteristics
   than other writing styles such as creative writing, academic writing or
   business writing.
-hide_header: true
+hide_header: false
 template: post
 ---
 ![](/images/apple-class-conference-7102-1-.jpg)
