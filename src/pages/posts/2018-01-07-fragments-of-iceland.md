@@ -28,7 +28,7 @@ Take this from someone that disliked writing that writing professionally, it con
 
 [Image source](https://www.pexels.com/)
 
-## **Why should we write?**
+## **Why should I write?**
 
 Different reasons for different folks, right? But we are going to focus on a few benefits of writing professionally. 
 
