@@ -42,9 +42,9 @@ Like I mentioned in the introductory part of this article, a couple of people or
 
 ## **How to cultivate a habit of writing.**
 
-**Decide:** Deciding is an obvious starting point. Make a decision and solidify it with why you need to write. Having a fascinating reason, especially one that is tied to you flares and career growth, will wake you up even when there is no motivations to write. I write them down in a note on my desktop, that way I get to see them often; you can try that.
+**Decide:** Deciding is an obvious starting point. Make a decision and solidify it with why you need to write. Having a fascinating reason, especially one that is tied to your flares and career growth, will wake you up even when there are no motivations to write. I write them down in a note on my desktop; that way I get to see them often; you can try that.
 
-**Begin:** After deciding on why and possibly when you want to begin writing, identify three or four topics that fascinate you, that obsess you. Write them down; they don’t have to be earth-shattering. Then keep coming back to them, over and over again. You will not be perfect starting, but it will get better as you go. Install grammar check apps and run your writings by them before publishing.
+**Begin:** After deciding on why and possibly when you want to begin writing, identify a few topics that fascinate you, that obsess you. Write them down; they don’t have to be earth-shattering. Then keep coming back to them, over and over again. You might not be very good at it while starting, but it will get better as you **grow**. Install grammar check apps and run your writings by them before publishing.
 
 **Learn:** Learning is a life long process, so we must have to learn on this too. Studying is one of the obvious ways to learn, so, study known writers patterns, follow a particular writers method if you have or invent your own. The most important part of this point is that you keep getting better, each new article.
 
