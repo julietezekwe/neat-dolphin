@@ -2,7 +2,7 @@
 title: The Act of Technical Writing
 date: 2019-10-27T23:00:00.000Z
 thumb_img_path: /images/apple-class-conference-7102-1-.jpg
-content_img_path: ''
+content_img_path: /images/apple-class-conference-7102-1-.jpg
 excerpt: >-
   Technical writing is a type of writing where the author is writing about a
   particular subject that requires direction, instruction, or explanation. This
