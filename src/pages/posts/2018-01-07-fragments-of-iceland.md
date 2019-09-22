@@ -18,7 +18,7 @@ template: post
 
 As a science student writing was one of my greatest challenges;  I know some people find themselves under this category. I, at first would convince myself that writing is not meant for everyone, especially those that are science and mathematically inclined but that changed with time as reality began to set in.
 
-Take this from someone that disliked writing that writing, especially professionally, is one act that contributes to making one whole. To be well rounded in any profession, one must learn to write. Why? some may ask, but do not worry, we are going to look at the benefits of writing and how it can help a person grow in their respective profession. This article might often make references with writing as a software engineer or as a technologist, but the article is meant to showcase why writing in any profession is important, thus, it is profession agnostic.
+Take this from someone that disliked writing that writing professionally, it contributes to making one whole. To be well rounded in any profession, one must learn to write. Why? some may ask, but do not worry, we are going to look at the benefits of writing and how it can help a person grow in their respective profession. This article might often make references with writing as a software engineer or as a technologist, but the article is meant to showcase why writing in any profession is important, thus, it is profession agnostic.
 
 ![](/images/ask-blackboard-356079-1-.jpg)
 
