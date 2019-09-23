@@ -32,15 +32,15 @@ Take this from someone that disliked writing that writing professionally, it con
 
 Different reasons for different folks, right? But we are going to focus on a few benefits of writing professionally. 
 
-**To re-learn**: Writing things down arguably can help us remember the important stuffs, and the better our notes are the more likely we are to remember. Just taking note helps make what we have learned stick, having to write about it is even better. While writing, one tends to revisit the topics learned, do even broader research on the topics, while trying to understand the underlying principles in order to be able to explain them in their own terms. This process obliviously helps one memorise the thoughts and even better, one understands the necessary techniques or approaches to the case study. Its been shown that one can hardly go wrong with the writing.
+**To re-learn**: Writing things down arguably can help us remember the important stuff, and the better our notes are the more likely we are to remember. Just taking note helps make what we have learned stick, having to write about it is even better. While writing, one tends to revisit the topics learned, do even broader research on the topics, while trying to understand the underlying principles in order to be able to explain them in their own terms. This process obliviously helps one memorise the thoughts and even better, one understands the necessary techniques or approaches to the case study. It has been shown that one can hardly go wrong with the writing.
 
 **To Share:**  The power of sharing things learnt or personal opinions, cannot be over emphasised. Through sharing, we disseminate information;  there could be someone who has been struggling to understand a certain topic, and will have their "ahah" moment when they read what you have shared. Also, we benefit from sharing as it gives others insight on our thoughts and that, they can leverage on to help improve or correct some possibly misguided notions. Sharing is arguably the easiest way of letting people in and creating an avenue for collaboration and growth.
 
-**To attract:** While sharing our write ups, we end up attracting people of like minds. Going by the saying that goes, “two people that have the same wants are two people that should be friends", we need a community to grow faster. We attract different categories of people needed in our growth, starting with mentees, colleagues to mentors and role modes.
+**To attract:** While sharing our write ups, we end up attracting people of like minds. Going by the saying that goes, “two people that have the same wants are two people that should be friends", we need a community to grow faster. We attract different categories of people needed in our growth, starting with mentees, colleagues to mentors and role models.
 
 **To affirm:** No one is a compendium of knowledge, thus the need to affirm. While writing, sharing and attracting, we connect with people who are willing to collaborate and share in our findings and inventions. The need for affirmation comes in when most members of our community support or contribute to our work. You know the feeling when you make a comment on a platform and got some likes, it clears any doubts that might have existed. Affirming what we had written helps attract the validation we crave as humans and it helps encourage us to do more.
 
-**To inspire:** Having attracted different people with what we shared; we at the same time become a source of inspiration to most. Thoughts like "if she can do it, then I can too" are common and especially found among people  who are knew in some skill acquisition. By inspiring others, we grow the community.
+**To inspire:** Having attracted different people with what we shared; we at the same time become a source of inspiration to others. Thoughts like "if she could do it, then I can" are common and found especially among people  who are new in some skill acquisition. By inspiring others, we grow the community.
 
 ## What if I dislike writing?
 
@@ -58,7 +58,7 @@ Like I mentioned in the introductory part of this article, a couple of people or
 
 ## **When should I write?**
 
-The response to this might differ for different kinds of a profession and the list can be infinite; so I will be sharing a few, I believe, cut across many professions for a start and they include;
+The response to this might differ for different kinds of a professions and the list can be infinite; so I will be sharing a few, I believe, cut across many professions for a start and they include;
 
 * When I want to learn something new.
 * when I have learned something new.
