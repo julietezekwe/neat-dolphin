@@ -17,6 +17,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://linkedin.com/in/chidimma-ezekwe-621707162/"
+    },
+    {
+      "title": "Dev.to",
+      "icon": "fa-dev",
+      "url": "https://dev.to/dimmajuliet16"
     }
   ]
 }
