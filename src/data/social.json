@@ -22,6 +22,11 @@
       "title": "Dev.to",
       "icon": "fa-dev",
       "url": "https://dev.to/dimmajuliet16"
+    },
+    {
+      "title": "Medium",
+      "icon": "fa-medium",
+      "url": "https://medium.com/@julietezekwe"
     }
   ]
 }
