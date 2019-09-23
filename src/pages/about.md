@@ -21,7 +21,7 @@ I am a highly focused software developer that excels in every stage of the life 
 * Ability to work with Windows Operating System and Mac operating system.
 * Proficient with the use of Data Base Management Systems (PostgreSQL, MySQL, MongoDB, Firestore).
 * Proficient with SQL queries.
-* Proficient with the use of ORM like sequelize and mongoose. 
+* Proficient with the use of ORMs like sequelize and mongoose. 
 * Proficient with the use of Version control tools such as GitHub, GitLab and Bitbucket.
 * Proficient with the use of Command lines.
 * Proficient in the use of front-end web technologies such as HTML, CSS, Bootstrap.
