@@ -9,7 +9,7 @@ menus:
     weight: 2
 template: page
 ---
-I am a highly focused software developer that excels in every stage of the life cycle of software development, including design implementation, coding, debugging, testing, and maintenance. I hold a Bachelor's Degree in Computer Engineering from Nnamdi Azikiwe University, Awka. With over 2 years of experience in software development. I speak English and Igbo languages fluently and I am a lover of nature.
+I am a highly focused software engineer that excels in every stage of the life cycle of software development, including design implementation, coding, debugging, testing, and maintenance. I hold a Bachelor's Degree in Computer Engineering from Nnamdi Azikiwe University, Awka. With over 2 years of experience in software development. I speak English and Igbo languages fluently and I am a lover of nature.
 
 **SKILLS AND ABILITIES** 
 
