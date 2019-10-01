@@ -68,4 +68,4 @@ The response to this might differ for different kinds of professions and the lis
 
 ## Conclusion
 
-It can see that not only does writing help us to share information we have with others, it also helps us to know more, help what we have learned stick, get what others think and also encourage others to learn. There is a saying that no one is an island of knowledge, so one cannot say they know it all. Not sharing one's idea can kill the idea or at least prevents the idea from reaching its maximum potential. I will end by saying this "You will never know that you do not know about something if you do not know of its existence".
+It can be seen that not only does writing help us to share information we have with others, it also helps us to know more, help what we have learned stick, get what others think and also encourage others to learn. There is a saying that no one is an island of knowledge, so one cannot say they know it all. Not sharing one's idea can kill the idea or at least prevents the idea from reaching its maximum potential. I will end by saying this "You will never know that you do not know about something if you do not know of its existence".
