@@ -16,7 +16,7 @@ template: post
 
 [image source](https://www.pexels.com/)
 
-> _Technical writing is a type of writing where the author is writing about a particular subject that requires direction, instruction, or explanation. This style of writing has a very different purpose and different characteristics than other writing styles such as creative writing, academic writing or business writing._
+> _Technical writing is a type of writing where the author is writing about a particular subject that requires direction, instruction, or explanation. This style of writing has a very different purpose and different characteristics than other writing styles such as creative writing, academic writing or business writing. (_[_Your Dictionary_](https://grammar.yourdictionary.com/word-definitions/definition-of-technical-writing.html)_)_
 
 As a science student writing was one of my greatest challenges;  I know some people find themselves under this category. I, at first would convince myself that writing is not meant for everyone, especially those that are science and mathematically inclined but that changed with time as reality began to set in.
 
